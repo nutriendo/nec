@@ -1,2 +1,7 @@
-# nec
-Impacts of Agricultural Incentive Policies on Socioeconomic and Environmental Variables in Guatemala: A Dynamic Environmentally Extended CGE Analysis
+# NeC
+
+Impacts of Agricultural Incentive Policies on Socioeconomic and Environmental Variables in Guatemala: A Dynamic Environmentally Extended CGE Analysis (Nutriendo el Crecimiento)
+
+## Proposal abstract
+
+This study proposes to quantify the impacts on growth, employment, poverty and the natural resource water of incentives to agricultural and forest production for the improvement of food security, proposed by the recently approved National Development Plan of Guatemala K’atun 2032 (Segeplan, 2014) for a 20 year horizon. Food security planning is important for Guatemala, given its high rates of malnutrition in children under 5 years of age–49.8% of chronic malnutrition, according to the Demographic Health Survey 2008-2009. This study will highlight socioeconomic and environmental effects of the incentives at a macroeconomic level. We propose a single country environmentally extended computable general equilibrium model calibrated on a Social Accounting Matrix for the year 2011, which will use data from the System of Environmental and Economic Accounts (SEEA) of Guatemala. Guatemala’s agricultural sector represented 10.6% from GDP in 2013, but most importantly it accounted 33.5% of the working population in rural areas in the referenced LSMS survey. Proposed policy actions include: A reduction of trade margins, particularly for agricultural sectors, Subsidy to the use of fertilizers, and Subsidy to the use of capital in agricultural sectors.
